@@ -1,0 +1,1 @@
+# Empty-value-error-while-inserting-in-db-from-php
